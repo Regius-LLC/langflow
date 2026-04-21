@@ -14,4 +14,4 @@ module.exports = {
     preflight: false, // This is important to prevent Tailwind from conflicting with Docusaurus styles
   },
   darkMode: ['class', '[data-theme="dark"]'], // This helps with Docusaurus dark mode
-}
+};
